@@ -1,0 +1,14 @@
+#include<iostream.h>
+#include<conio.h>
+
+void main()
+{
+int a,b,sum;
+printf("Enter the value of A:");
+scanf("%d",&a);
+printf("Enter the value of B:");
+scanf("%d",&b);
+sum=a+b;
+printf("The Addition of A and B:",sum);
+getch();
+}
